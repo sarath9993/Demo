@@ -6,6 +6,7 @@ This is a simple readme file
 
 Just some updates, on a branch
 This is going to cause a trouble.
-This is not going to be a problem
+This is not going to be a problem.
 
-### YOu are awesome
+
+I think it won't affect much.
