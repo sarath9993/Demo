@@ -4,8 +4,8 @@ This is a simple readme file
 
 ## Heading 2
 
-Just some updates, on a branch
-This is going to cause a trouble.
+<<<<<<< HEAD
 This is not going to be a problem
-
-### YOu are awesome
+=======
+This is going to cause a trouble.
+>>>>>>> very-bad
